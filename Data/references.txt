@@ -1,0 +1,9 @@
+https://towardsdatascience.com/ml-powered-product-categorization-for-smart-shopping-options-8f10d78e3294
+
+https://medium.com/moosend-engineering-data-science/product-clustering-a-text-clustering-approach-c392c2ef4310
+
+
+https://towardsdatascience.com/automatic-topic-clustering-using-doc2vec-e1cea88449c
+
+
+https://medium.com/@pemagrg/pre-processing-text-in-python-ad13ea544dae
